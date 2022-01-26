@@ -64,9 +64,10 @@ const HeaderSearch = styled.div`
   opacity: 1;
   color: grey;
   border-radius: 6px;
-  padding: 0 50px;
+  padding: 2px 50px;
   text-align: center;
   border: 1px solid grey;
+
   > input {
     background-color: transparent;
     border: none;
